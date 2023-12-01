@@ -1,0 +1,18 @@
+- Ecrire une ligne de commande qui affiche les dix premières lignes.
+- Ecrire une ligne de commande qui affiche les dix dernières lignes.
+- Ecrire une ligne de commande qui affiche les 100 premiers bytes.
+
+Chaque commande sera stockée dans un script qui portera le format suivant : 
+
+first_command.sh
+second_command.sh
+third_command.sh
+
+Pour valider l'exercice :
+L'exécution du script réalisera la fonctionnalité de la commande, attention aux droits d'éxécution !
+
+*TIPS
+
+man head
+man tail
+man chmod
