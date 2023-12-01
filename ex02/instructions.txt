@@ -1,0 +1,8 @@
+Tu trouveras un fichier data.csv, ce fichier contient la liste des anciens élèves en fonction de leur ville, de l'année d'étude et de la formation. Créer les fichiers suivants :
+
+- ux_lyon_2019.csv qui contiendra uniquement le nombre d'alumnis ayant fait de l'UX à Lyon, en 2019.
+- GameProgramming_2021.csv qui contiendra uniquement les alumnis ayant fait du GameProgramming, en 2021.
+- Susan.csv qui contiendra le nombre de toutes les personnes qui portent Susan en prénom ou/et en nom.
+- mails_Lille.csv qui contiendra uniquement les adresses mails des alumnis du campus de Lille.
+- mails_GameDesign_Lyon_Paris_Lille.csv qui contiendra uniquement les adresses mails des alumnis des campus de Lyon, Paris et Lille.
+- Communication_2023.csv qui contiendra uniquement le nombre d'alumnis ayant fait de la communication en 2023.
