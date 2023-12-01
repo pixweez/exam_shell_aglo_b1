@@ -1,0 +1,18 @@
+Classer les différents dossier par Constructeurs et consoles. 
+Un constructeur peut avoir un plusieurs consoles. 
+
+Ex  : 
+
+Covers/Constructeurs 
+
+---- Nintendo : 
+        --- salon : 
+            --- Gamecube
+                  ---- mario_sunshine.jpeg
+                  --- pikmin.jpeg
+        --- portables : 
+              --- Game_Boy
+              --- Game_Boy_Advance
+              
+
+--- Microsoft
